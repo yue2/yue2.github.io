@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/yue2/static_blog</id>
+    <id>https://github.com/yue2/static_blog/</id>
     <title>Mid of Nowhere</title>
-    <updated>2020-11-06T09:23:00.267Z</updated>
+    <updated>2020-11-06T09:24:24.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/yue2/static_blog"/>
+    <link rel="alternate" href="https://github.com/yue2/static_blog/"/>
     <link rel="self" href="https://github.com/yue2/static_blog/atom.xml"/>
     <subtitle>Welcome to the middle of nowhere. That&apos;s right, absolute nowhere.</subtitle>
     <logo>https://github.com/yue2/static_blog/images/avatar.png</logo>
