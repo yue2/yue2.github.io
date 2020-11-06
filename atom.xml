@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yue2.github.io/static_blog/</id>
+    <id>https://github.com/yue2/static_blog.git</id>
     <title>Mid of Nowhere</title>
-    <updated>2020-11-06T06:38:30.375Z</updated>
+    <updated>2020-11-06T09:16:04.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yue2.github.io/static_blog/"/>
-    <link rel="self" href="https://yue2.github.io/static_blog/atom.xml"/>
+    <link rel="alternate" href="https://github.com/yue2/static_blog.git"/>
+    <link rel="self" href="https://github.com/yue2/static_blog.git/atom.xml"/>
     <subtitle>Welcome to the middle of nowhere. That&apos;s right, absolute nowhere.</subtitle>
-    <logo>https://yue2.github.io/static_blog/images/avatar.png</logo>
-    <icon>https://yue2.github.io/static_blog/favicon.ico</icon>
+    <logo>https://github.com/yue2/static_blog.git/images/avatar.png</logo>
+    <icon>https://github.com/yue2/static_blog.git/favicon.ico</icon>
     <rights>All rights reserved 2020, Mid of Nowhere</rights>
     <entry>
         <title type="html"><![CDATA[Index]]></title>
-        <id>https://yue2.github.io/static_blog/post/index/</id>
-        <link href="https://yue2.github.io/static_blog/post/index/">
+        <id>https://github.com/yue2/static_blog.git/post/index/</id>
+        <link href="https://github.com/yue2/static_blog.git/post/index/">
         </link>
         <updated>2020-11-06T06:31:40.000Z</updated>
         <content type="html"><![CDATA[<p>test post for gitpage</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://yue2.github.io/static_blog/post/hello-gridea/</id>
-        <link href="https://yue2.github.io/static_blog/post/hello-gridea/">
+        <id>https://github.com/yue2/static_blog.git/post/hello-gridea/</id>
+        <link href="https://github.com/yue2/static_blog.git/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
